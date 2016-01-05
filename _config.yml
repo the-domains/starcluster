@@ -1,0 +1,28 @@
+name: starcluster
+favicon: null
+layout_spectrum: 0.2884499120991677
+typography_spectrum: 0.8331771597731858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6992358388379216
+  lightness: 0.335356118157506
+  saturation: 0.9067827819380909
+  rhythmicContrast: 0.47976365755312145
+purpose: []
